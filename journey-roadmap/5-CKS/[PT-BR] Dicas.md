@@ -82,6 +82,6 @@ Monitoring, Logging and Runtime Security - 20%
 * Você será precisará habilitar os Audit logs, certifique-se de saber como ativá-los e configurá-los. Por favor, preste atenção no Volume Mounting;
 * Não tenho certeza se isso será abordado nesta seção, mas a configuração de admission plugins como ImagePolicyWebhook certamente será solicitada. Só para reforçar, por favor, preste atenção no Volume Mounting e na configuração do arquivo kubeconfig específico.
 
-## Extra tips
+## Dicas extras
 
 > Caso você não tenha a skill de administração Linux, recomendo fortemente procurar um curso antes de encarar a CKS. Você precisará realizar várias tarefas de administrador de sistemas, como identificar o PID de um processo, encontrar binários e verificar versões de pacotes.
