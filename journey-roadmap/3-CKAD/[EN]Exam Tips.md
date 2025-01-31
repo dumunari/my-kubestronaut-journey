@@ -41,7 +41,7 @@ As you already know, CKAD is a HandsOn exam, composed by around 16 challenges.
 
 Going through the exam topics, here are some tips from my own exam, based on the topics below. 
 
->Keep in mind that all these tips are very well detailed on [[CKAD] Personal Notes:Anotações]([CKAD]%20Personal%20notes:Anotações.pdf).
+>Keep in mind that all these tips are very well detailed on [[CKAD] Personal Notes:Anotações](./[CKAD]%20Personal%20notes:Anotações.pdf).
 
 Application Design and Build - 20%
 * Here you will be asked to create Deployments, DaemonSets and Cronjobs. Cronjobs are tricky, so try to be fast when working with them. Also, make sure you know how to run a job from a cronjob;

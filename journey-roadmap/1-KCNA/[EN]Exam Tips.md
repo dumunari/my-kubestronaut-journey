@@ -32,7 +32,7 @@ As you already know, KCNA is a 60 questions multiple choice exam.
 
 Going through the exam topics, here are some tips from my own exam, based on the topics below. 
 
->Keep in mind that all these tips are very well detailed on [[KCNA] Personal Notes:Anotações]([KCNA]%20Personal%20notes:Anotações.pdf).
+>Keep in mind that all these tips are very well detailed on [[KCNA] Personal Notes:Anotações](./[KCNA]%20Personal%20notes:Anotações.pdf).
 
 Kubernetes Fundamentals - 46%
 * Kubelet functions are often explored, so keep in my its responsibilities;
