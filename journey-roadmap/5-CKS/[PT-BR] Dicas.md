@@ -3,7 +3,6 @@
 ## Dica para todos exames
 > [!TIP] 
 > Sempre que você agendar seu exame, poderá começar a fazê-lo 30 minutos antes do horário marcado.
-
 > USE ESSA POSSIBILIDADE, esse tempo adicional ajuda muito caso você encontre algum problema, como comentei no meu post do Medium.
 
 ## Dicas para CKA, CKAD e CKS
