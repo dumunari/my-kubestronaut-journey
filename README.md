@@ -10,5 +10,4 @@ Esse repositório contém informações sobre a minha jornada Kubestronaut, incl
 
 Espero conseguir ajudá-los 🙂
 
-[Aqui você vai encontrar as informações detalhadas.](journey-roadmap/[PT-BR]Como%20Usar.md)
-
+[Aqui você vai encontrar as informações detalhadas.](journey-roadmap/[PT-BR]Como%20usar.md)
