@@ -1,7 +1,7 @@
 # [CKS] Certified Kubernetes Security Specialist
 
 ## All exam tips
-> [!NOTE] 
+> [!TIP] 
 > Whenever you book your exam, you can already start it 30 minutes before the time you settled.
 
 > USE THIS FEATURE, it can help you a lot in case something goes wrong during the exam preparation, as I said on my Medium post.
@@ -12,6 +12,10 @@
 >This  exam simulator is pretty similar, and sometimes even harder than the original exam, do it as many times as you can. It gets available for 36 hours after you first start it.
 
 > During the real exam, If you are not sure about a question, flag it for later and go on, time is crucial for these exams.
+
+## CKS tip
+> [!CAUTION] 
+> Especially in this test, you will need to be VERY careful with your time. Analyze the question and do as much as you can. If you end up getting stuck, flag it and move on to the next one, this test is quite long.
 
 ## Exam introduction
 
@@ -42,7 +46,7 @@ As you already know, CKS is a HandsOn exam, composed by around 16 challenges.
 
 >Score Needed: 67 🎯
 
->My Score: 74 ✅
+>My Score: 74 ✅ 😰
 
 Going through the exam topics, here are some tips from my own exam, based on the topics below. 
 
@@ -52,7 +56,7 @@ Cluster Setup - 15%
 * Here you will be asked to apply some security configurations to cluster components. You will be provided a kube-bench report to guide you on this task, so read it carefully;
 * NetworkPolicies are here again. You will be asked to use them to secure cluster access.
 * Remember Ingresses? They are also back. Here you will be asked to create/change an Ingress with the additional TLS configuration. Make sure you are sharp creating TLS Secrets.
-* One task that seems easy but is very tricky is verifying binaries. DO NOT trust your eyes. Generate the hash for each binary and add it to a file, them compare both files contents. I don't know if it's the best way to do it, but that's how it worked for me.
+* One task that seems easy but is very tricky is verifying binaries. DO NOT trust your eyes. Generate the hash for each binary and add it to a file, them compare both files contents using the diff command. I don't know if it's the best way to do it, but that's how it worked for me.
 
 Cluster Hardening - 15%
 * ServiceAccounts will be explored here, but most in a way for you to make sure they don't have extra permissions. Also, automounting may also appear here. Remember how to configure it at Pod and ServiceAccount levels.
@@ -84,4 +88,5 @@ Monitoring, Logging and Runtime Security - 20%
 
 ## Extra tips
 
+> [!WARNING]
 > In case you don't have any Linux Admin skills, I strongly recommend looking for a course before taking on CKS. You will be asked to perform lots of System Administrator tasks like identifying a process PID, finding binaries and checking packages versions.

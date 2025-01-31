@@ -1,7 +1,7 @@
 # [CKAD] Certified Kubernetes Application Developer
 
 ## All exam tips
-> [!NOTE] 
+> [!TIP] 
 > Whenever you book your exam, you can already start it 30 minutes before the time you settled.
 
 > USE THIS FEATURE, it can help you a lot in case something goes wrong during the exam preparation, as I said on my Medium post.

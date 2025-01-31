@@ -1,7 +1,7 @@
 # [KCNA] Kubernetes and Cloud Native Associate
 
 ## Dica para todos exames
-> [!NOTE] 
+> [!TIP] 
 > Sempre que você marca uma prova, você pode começar com 30 minutos de antecedência do horário marcado.
 
 > USE ESSA POSSIBILIDADE, esse tempo adicional ajuda muito caso você encontre algum problema, como comentei no meu post do Medium.
@@ -14,11 +14,11 @@ Você pode encontrar os [Tópicos do Exame aqui](https://training.linuxfoundatio
 
 ## Qual curso fazer?
 
-Para a KCNA, recomendo fortemente o curso do [James Spurin](https://medium.com/r/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjamesspurin%2F)  [Kubernetes Certified (KCNA) + Hands On Labs + Practice Exams](https://www.udemy.com/course/dive-into-cloud-native-containers-kubernetes-and-the-kcna/?srsltid=AfmBOooZb6PVZkBkO1fxFovRyuZQ3BZl8CuE6DOzCvkUy062yXyPlYfK&couponCode=KEEPLEARNINGBR) na Udemy.
+Para a KCNA, recomendo fortemente o curso do [James Spurin](https://www.linkedin.com/in/jamesspurin/)  [Kubernetes Certified (KCNA) + Hands On Labs + Practice Exams](https://www.udemy.com/course/dive-into-cloud-native-containers-kubernetes-and-the-kcna/?srsltid=AfmBOooZb6PVZkBkO1fxFovRyuZQ3BZl8CuE6DOzCvkUy062yXyPlYfK&couponCode=KEEPLEARNINGBR) na Udemy.
 
 James passa por todos os tópicos necessários para o exame KCNA de forma muito detalhada e com uma didática impressionante.
 
-Além disso, os Labs HandsOn são muito bem preparados e ajudam a aplicar toda a teoria aprendi, enquanto fornece diversas ferramentas para os próximos exames. Esse curso me ajudoy demais nas provas CKA e CKAD.
+Além disso, os Labs HandsOn são muito bem preparados e ajudam a aplicar toda a teoria aprendi, enquanto fornece diversas ferramentas para os próximos exames. Esse curso me ajudou demais nas provas CKA e CKAD.
 
 No final, ainda tem alguns Simulados que são bastante parecidos com o exame real.
 

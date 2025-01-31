@@ -1,7 +1,7 @@
 # [KCSA] Kubernetes and Cloud Native Security Associate
 
 ## Dica para todos exames
-> [!NOTE] 
+> [!TIP] 
 > Sempre que você marca uma prova, você pode começar com 30 minutos de antecedência do horário marcado.
 
 > USE ESSA POSSIBILIDADE, esse tempo adicional ajuda muito caso você encontre algum problema, como comentei no meu post do Medium.
@@ -22,7 +22,7 @@ Além disso, há HandsOn Labs muito bem preparados após cada tópico.
 
 No final, você também encontrará alguns Simulados.
 
-> [!NOTE] 
+> [!IMPORTANT] 
 > Aqui vai uma Dica de OURO para a KCSA. Use o [Kubernetes Security KCSA Mock Exam](https://kubernetes-security-kcsa-mock.vercel.app/) do [Thiago](https://www.linkedin.com/in/thiago4go/). As questões são muito parecidas com as questões da prova de verdade, então se você tirar uma bota nota aqui, você tirará uma bota nota na prova de verdade. Inclusive, quem quiser, pode accesar o [GitHub do Projeto](https://github.com/thiago4go/kubernetes-security-kcsa-mock).
 
 ## Dicas

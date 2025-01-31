@@ -1,7 +1,7 @@
 # [KCSA] Kubernetes and Cloud Native Security Associate
 
 ## All exam tips
-> [!NOTE] 
+> [!TIP] 
 > Whenever you book your exam, you can already start it 30 minutes before the time you settled.
 
 > USE THIS FEATURE, it can help you a lot in case something goes wrong during the exam preparation, as I said on my Medium post.
@@ -21,7 +21,7 @@ Also, there are very well prepared HandsOn Labs after every topic.
 
 In the end, you will also find some Practice Exams.
 
-> [!NOTE] 
+> [!IMPORTANT] 
 > One AMAZING resource to help you on KCSA is [Thiago's](https://www.linkedin.com/in/thiago4go/) [Kubernetes Security KCSA Mock Exam](https://kubernetes-security-kcsa-mock.vercel.app/). It has questions that are pretty alligned with the real exam. Make sure you get a good grade on this Mock Exam and you will surely get a good grade on the real KCSA Exam. You can also take a look at the [Project's GitHub Repo](https://github.com/thiago4go/kubernetes-security-kcsa-mock).
 
 ## KCNA tips
